@@ -1,0 +1,103 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": "React",
+      "description": "A JavaScript library for building user interfaces",
+      "repository": "https://github.com/facebook/react",
+      "language": "JavaScript",
+      "stars": 203000,
+      "lastUpdated": "2024-02-14T10:00:00Z",
+      "topics": ["javascript", "frontend", "ui", "library"],
+      "needsHelp": [
+        {
+          "type": "Documentation",
+          "difficulty": "Beginner",
+          "description": "Help improve React documentation"
+        },
+        {
+          "type": "Testing",
+          "difficulty": "Intermediate",
+          "description": "Write tests for React components"
+        }
+      ],
+      "status": "active",
+      "contributionGuidelines": "https://github.com/facebook/react/blob/main/CONTRIBUTING.md",
+      "issueCount": 750,
+      "maintainers": ["gaearon", "acdlite", "sebmarkbage"],
+      "recentActivity": [
+        {
+          "type": "Issue",
+          "description": "New documentation structure proposal",
+          "date": "2024-02-14T10:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "TensorFlow",
+      "description": "An open source machine learning framework",
+      "repository": "https://github.com/tensorflow/tensorflow",
+      "language": "Python",
+      "stars": 178000,
+      "lastUpdated": "2024-02-14T10:00:00Z",
+      "topics": ["machine-learning", "deep-learning", "python", "ai"],
+      "needsHelp": [
+        {
+          "type": "Bug Reports",
+          "difficulty": "Intermediate",
+          "description": "Help identify and report bugs"
+        },
+        {
+          "type": "Translation",
+          "difficulty": "Beginner",
+          "description": "Translate documentation to other languages"
+        }
+      ],
+      "status": "active",
+      "contributionGuidelines": "https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md",
+      "issueCount": 1200,
+      "maintainers": ["martinwicke", "tensorflowbot"],
+      "recentActivity": [
+        {
+          "type": "Pull Request",
+          "description": "Add new language translations",
+          "date": "2024-02-14T10:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Ruby on Rails",
+      "description": "A web application framework written in Ruby",
+      "repository": "https://github.com/rails/rails",
+      "language": "Ruby",
+      "stars": 52000,
+      "lastUpdated": "2024-02-14T10:00:00Z",
+      "topics": ["ruby", "web-framework", "mvc", "backend"],
+      "needsHelp": [
+        {
+          "type": "Documentation",
+          "difficulty": "Beginner",
+          "description": "Update API documentation"
+        },
+        {
+          "type": "User Feedback",
+          "difficulty": "Beginner",
+          "description": "Provide feedback on new features"
+        }
+      ],
+      "status": "active",
+      "contributionGuidelines": "https://github.com/rails/rails/blob/main/CONTRIBUTING.md",
+      "issueCount": 450,
+      "maintainers": ["dhh", "rafaelfranca", "kaspth"],
+      "recentActivity": [
+        {
+          "type": "Discussion",
+          "description": "New authentication system proposal",
+          "date": "2024-02-14T10:00:00Z"
+        }
+      ]
+    }
+  ]
+}
